@@ -8,7 +8,7 @@
 
 ## 简介
 
-你还在为写函数的时候哪个指令没有执行而不知所措吗？你还在为调试而各种/say吗你还在为不知道哪个实体执行了function而一头雾水吗（跑
+你还在为写函数的时候哪个指令没有执行而不知所措吗？你还在为调试而各种/say吗？你还在为不知道哪个实体执行了function而一头雾水吗（跑
 
 Minecraft Function Debugger (VSCode Extension Part)，简称 McFD，中文名「函数调试器(VSCode插件部分)」是一个能够为 Minecraft Java版的函数提供调试支持的VSCode插件，你可以使用它像调试其他语言一样调试mcfunction
 
